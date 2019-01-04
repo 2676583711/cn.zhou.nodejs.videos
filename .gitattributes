@@ -4,3 +4,4 @@
 7-模拟Apache服务器.avi filter=lfs diff=lfs merge=lfs -text
 10-response对象常用成员（API）.avi filter=lfs diff=lfs merge=lfs -text
 12-npm介绍.avi filter=lfs diff=lfs merge=lfs -text
+0011-post方式提交一条新闻.avi filter=lfs diff=lfs merge=lfs -text
