@@ -1,3 +1,6 @@
 3-页面reflow和layout过程.avi filter=lfs diff=lfs merge=lfs -text
 14-fs-写入文件操作.avi filter=lfs diff=lfs merge=lfs -text
 15-node.js中单线程-非阻塞IO解释.avi filter=lfs diff=lfs merge=lfs -text
+7-模拟Apache服务器.avi filter=lfs diff=lfs merge=lfs -text
+10-response对象常用成员（API）.avi filter=lfs diff=lfs merge=lfs -text
+12-npm介绍.avi filter=lfs diff=lfs merge=lfs -text
